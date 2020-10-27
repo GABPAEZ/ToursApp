@@ -1,2 +1,0 @@
-# ToursApp
-Created with CodeSandbox
