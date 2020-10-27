@@ -8,4 +8,4 @@ If you want to see the demo of this proyect deployed, you can visit [Demo of the
 
 ##Preview
 
-![/preview.png]
+![](https://uploads.codesandbox.io/uploads/user/6aec20cd-5b6c-40e8-94fa-9be638e050c2/4ZDq-preview.png)
